@@ -1,1 +1,1 @@
-<svg height="250" width="400" xmlns="http://www.w3.org/2000/svg"><polygon points="225,10 100,210 350,210" fill="orange" /><text x="225" y="150" text-anchor="middle" fill="undefined" font-size='55'>EMS</text></svg>
+<svg height="250" width="400" xmlns="http://www.w3.org/2000/svg"><rect x="100" y="50" width="300" height="300" fill="orange"/><text x="250" y="160" text-anchor="middle" alignment-baseline="middle" fill="undefined" font-size="70">EMS</text></svg>
